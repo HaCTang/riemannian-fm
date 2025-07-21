@@ -38,6 +38,7 @@ Then use:
 ```
 conda activate manifm
 conda env update --file new_env.yml
+pip install -e .
 ```
 
 ## Data
